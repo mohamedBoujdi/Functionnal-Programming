@@ -1,3 +1,5 @@
+![Screenshot from 2022-10-08 14-10-45](https://user-images.githubusercontent.com/59446813/194709356-931b64f6-2845-4571-a2d4-a6d376c1e056.png)
+
 # Functionnal-Programming <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 
