@@ -28,5 +28,6 @@ The basic concept behind streams is simple: We got a data source, perform zero o
 ***functional programming operations in general are not thread safe which means that they are not safe to use in a multi-threaded environment.***
 
 > **functional programming** : uses operations that are not part of the Java language, such as map, filter, and reduce.
+ Streams in Java provide a functional approach to process a collection of objects.
 
 
