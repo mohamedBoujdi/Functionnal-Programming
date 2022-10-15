@@ -34,6 +34,13 @@ The basic concept behind streams is simple: We got a data source, perform zero o
 > **functional programming** : uses operations that are not part of the Java language, such as map, filter, and reduce.
  Streams in Java provide a functional approach to process a collection of objects.
  
+ ## Lambdas are Glue Code
+ 
+ | ![image](https://user-images.githubusercontent.com/59446813/195985852-3647170a-5c3d-48e0-afec-f4f07911b401.png) |
+ |-|
+ source:[article :link:](http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html) about why?
+
+ 
  ref: https://www.javatpoint.com/java-8-functional-interfaces :link:
 
 
