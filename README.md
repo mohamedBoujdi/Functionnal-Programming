@@ -20,7 +20,11 @@
  - [x] ***functional programming solves the problem of how to write code that is easy to read and easy to maintain.***
 
 
- 
+## Java Functional Interfaces
+An Interface that contains exactly one abstract method is known as functional interface some times we add @FunctionalInterface. It can have any number of default, static methods but can contain only one abstract method. It can also declare methods of object class.
+
+Functional Interface is also known as Single Abstract Method Interfaces or SAM Interfaces. It is a new feature in Java, which helps to achieve functional programming approach.
+
 ## Basic Concept
 The basic concept behind streams is simple: We got a data source, perform zero or more intermediate operations, and get a result.
 ![image](https://user-images.githubusercontent.com/59446813/194681864-d7e14bfb-1072-4911-87a9-006ee3522c0b.png)
@@ -29,5 +33,7 @@ The basic concept behind streams is simple: We got a data source, perform zero o
 
 > **functional programming** : uses operations that are not part of the Java language, such as map, filter, and reduce.
  Streams in Java provide a functional approach to process a collection of objects.
+ 
+ ref: https://www.javatpoint.com/java-8-functional-interfaces :link:
 
 
